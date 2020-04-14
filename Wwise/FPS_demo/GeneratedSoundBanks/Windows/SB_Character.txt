@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	649736703	SFX_CHA_FS_dirt			\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	286947169	FS_dirt-008	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-008_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-008		52400
+	484161063	FS_dirt-006	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-006_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-006		48530
+	618343273	FS_dirt-007	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-007_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-007		52180
+	621093768	FS_dirt-003	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-003		43924
+	671101663	FS_dirt-002	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-002		45830
+	847425422	FS_dirt-004	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-004		47998
+	860293678	FS_dirt-001	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-001		43176
+	1069466094	FS_dirt-005	C:\Users\user\Documents\Unreal Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\Footsteps\FS_dirt-005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\CHA_Footstep\SFX_CHA_FS_dirt\FS_dirt-005		53262
+

@@ -1,0 +1,137 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\",
+   "SourceFilesRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "660045834",
+    "GUID": "{2C8097F2-8DB8-4BDE-BA37-0238FB64C7E9}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_Character",
+    "ShortName": "SB_Character",
+    "Path": "SB_Character.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "649736703",
+      "Name": "SFX_CHA_FS_dirt",
+      "ObjectPath": "\\Events\\Default Work Unit\\Character\\CHA_Footstep\\SFX_CHA_FS_dirt",
+      "GUID": "{1E9C8F73-10A3-442E-B4CE-71C4F7F8F5FC}",
+      "MaxAttenuation": "750.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.449083",
+      "DurationMax": "0.554146",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "286947169",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-008.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-008_10C4C929.wem"
+       },
+       {
+        "Id": "484161063",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-006.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-006_10C4C929.wem"
+       },
+       {
+        "Id": "618343273",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-007.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-007_10C4C929.wem"
+       },
+       {
+        "Id": "621093768",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-003.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-003_10C4C929.wem"
+       },
+       {
+        "Id": "671101663",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-002.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-002_10C4C929.wem"
+       },
+       {
+        "Id": "847425422",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-004.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-004_10C4C929.wem"
+       },
+       {
+        "Id": "860293678",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-001.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-001_10C4C929.wem"
+       },
+       {
+        "Id": "1069466094",
+        "Language": "SFX",
+        "ShortName": "Footsteps\\FS_dirt-005.wav",
+        "Path": "SFX\\Footsteps\\FS_dirt-005_10C4C929.wem"
+       }
+      ]
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "286947169",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-008.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-008_10C4C929.wem"
+     },
+     {
+      "Id": "484161063",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-006.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-006_10C4C929.wem"
+     },
+     {
+      "Id": "618343273",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-007.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-007_10C4C929.wem"
+     },
+     {
+      "Id": "621093768",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-003.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-003_10C4C929.wem"
+     },
+     {
+      "Id": "671101663",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-002.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-002_10C4C929.wem"
+     },
+     {
+      "Id": "847425422",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-004.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-004_10C4C929.wem"
+     },
+     {
+      "Id": "860293678",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-001.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-001_10C4C929.wem"
+     },
+     {
+      "Id": "1069466094",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FS_dirt-005.wav",
+      "Path": "SFX\\Footsteps\\FS_dirt-005_10C4C929.wem"
+     }
+    ]
+   }
+  ]
+ }
+}

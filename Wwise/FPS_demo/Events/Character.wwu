@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{112A5F6F-6B39-4953-882A-0118ADE90D19}" SchemaVersion="97" RootDocumentID="{B310B07B-2015-4F33-AF30-75A51BDD6627}">
+	<Events>
+		<WorkUnit Name="Character" ID="{112A5F6F-6B39-4953-882A-0118ADE90D19}" OwnerID="{B310B07B-2015-4F33-AF30-75A51BDD6627}" PersistMode="Nested">
+			<ChildrenList>
+				<Folder Name="CHA_Footstep" ID="{90EFB6BD-18B7-4228-A227-1AD92B2784B1}" ShortID="830649449">
+					<ChildrenList>
+						<Event Name="SFX_CHA_FS_dirt" ID="{1E9C8F73-10A3-442E-B4CE-71C4F7F8F5FC}">
+							<ChildrenList>
+								<Action Name="" ID="{8F1002FA-017D-4849-8BBD-C25857E2DD58}" ShortID="862485462">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SFX_CHA_FS_dirt" ID="{AF1491B8-B011-4BA2-B9E8-18FA3F70BF33}" WorkUnitID="{79683887-E660-4909-B2B4-CB53B3FEB970}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

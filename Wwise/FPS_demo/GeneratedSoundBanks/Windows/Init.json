@@ -1,0 +1,25 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\",
+   "SourceFilesRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

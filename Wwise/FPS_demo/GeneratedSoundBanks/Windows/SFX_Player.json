@@ -1,0 +1,86 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\",
+   "SourceFilesRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "217780010",
+    "GUID": "{2C8097F2-8DB8-4BDE-BA37-0238FB64C7E9}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SFX_Player",
+    "ShortName": "SFX_Player",
+    "Path": "SFX_Player.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3373521485",
+      "Name": "Play_FS_dirt",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_FS_dirt",
+      "GUID": "{1E9C8F73-10A3-442E-B4CE-71C4F7F8F5FC}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.449083",
+      "DurationMax": "0.554146",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "96778491",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-005.wav",
+        "Path": "SFX\\FS_dirt-005_10C4C929.wem"
+       },
+       {
+        "Id": "305934153",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-007.wav",
+        "Path": "SFX\\FS_dirt-007_10C4C929.wem"
+       },
+       {
+        "Id": "525553562",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-006.wav",
+        "Path": "SFX\\FS_dirt-006_10C4C929.wem"
+       },
+       {
+        "Id": "629640048",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-001.wav",
+        "Path": "SFX\\FS_dirt-001_10C4C929.wem"
+       },
+       {
+        "Id": "1001513136",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-002.wav",
+        "Path": "SFX\\FS_dirt-002_10C4C929.wem"
+       },
+       {
+        "Id": "1017403296",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-003.wav",
+        "Path": "SFX\\FS_dirt-003_10C4C929.wem"
+       },
+       {
+        "Id": "1024040064",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-004.wav",
+        "Path": "SFX\\FS_dirt-004_10C4C929.wem"
+       },
+       {
+        "Id": "1056224183",
+        "Language": "SFX",
+        "ShortName": "FS_dirt-008.wav",
+        "Path": "SFX\\FS_dirt-008_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
