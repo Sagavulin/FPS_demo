@@ -18,11 +18,18 @@
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CEFE2A7E-2F31-45C1-A272-E7EDB9C2A749}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Character" ID="{962C7816-DB68-4362-997F-1F3C6A7A06B8}" WorkUnitID="{617B2B6E-A7CD-4AB3-B6C4-388C912C5183}"/>
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{617B2B6E-A7CD-4AB3-B6C4-388C912C5183}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
 						<RandomSequenceContainer Name="SFX_CHA_FS_dirt" ID="{AF1491B8-B011-4BA2-B9E8-18FA3F70BF33}" ShortID="728701717">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-9</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CEFE2A7E-2F31-45C1-A272-E7EDB9C2A749}"/>
