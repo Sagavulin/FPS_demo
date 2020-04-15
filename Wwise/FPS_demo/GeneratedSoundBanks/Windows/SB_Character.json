@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\",
-   "SourceFilesRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\",
+   "SourceFilesRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\.cache\\Windows\\",
+   "SoundBanksRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\user\\Documents\\Unreal Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows"
   },
   "SoundBanks": [
    {

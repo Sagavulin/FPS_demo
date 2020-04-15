@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	921078508	Play_SYNC_LOOP			\Default Work Unit\TEST\Play_SYNC_LOOP	
+	1352449698	Play_SYNC_BEEP			\Default Work Unit\TEST\Play_SYNC_BEEP	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	27210610	SYNC_BEEP	E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\TEST\SYNC_BEEP_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\TEST\SYNC_BEEP		154708
+	393410646	SYNC_LOOP	E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\.cache\Windows\SFX\TEST\SYNC_LOOP_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\TEST\SYNC_LOOP		960064
+

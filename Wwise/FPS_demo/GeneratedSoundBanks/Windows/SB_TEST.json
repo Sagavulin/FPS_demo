@@ -1,0 +1,73 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\",
+   "SourceFilesRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\.cache\\Windows\\",
+   "SoundBanksRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "E:\\Personal\\Unreal_Projects\\FPS_demo\\Wwise\\FPS_demo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "690783697",
+    "GUID": "{DEF103B9-6068-4BC6-966D-93E1A99A40A5}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_TEST",
+    "ShortName": "SB_TEST",
+    "Path": "SB_TEST.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1352449698",
+      "Name": "Play_SYNC_BEEP",
+      "ObjectPath": "\\Events\\Default Work Unit\\TEST\\Play_SYNC_BEEP",
+      "GUID": "{883756E8-63AE-4AAB-A781-3B7F9FF35D30}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.027187",
+      "DurationMax": "4.027187",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "27210610",
+        "Language": "SFX",
+        "ShortName": "TEST\\SYNC_BEEP.wav",
+        "Path": "SFX\\TEST\\SYNC_BEEP_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "921078508",
+      "Name": "Play_SYNC_LOOP",
+      "ObjectPath": "\\Events\\Default Work Unit\\TEST\\Play_SYNC_LOOP",
+      "GUID": "{DEBD5BD8-5B82-4243-BBDC-1413ACBEB011}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "393410646",
+        "Language": "SFX",
+        "ShortName": "TEST\\SYNC_LOOP.wav",
+        "Path": "SFX\\TEST\\SYNC_LOOP_D79FB2B7.wem"
+       }
+      ]
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "27210610",
+      "Language": "SFX",
+      "ShortName": "TEST\\SYNC_BEEP.wav",
+      "Path": "SFX\\TEST\\SYNC_BEEP_D79FB2B7.wem"
+     },
+     {
+      "Id": "393410646",
+      "Language": "SFX",
+      "ShortName": "TEST\\SYNC_LOOP.wav",
+      "Path": "SFX\\TEST\\SYNC_LOOP_D79FB2B7.wem"
+     }
+    ]
+   }
+  ]
+ }
+}

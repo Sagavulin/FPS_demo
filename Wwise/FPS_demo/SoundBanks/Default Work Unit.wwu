@@ -7,6 +7,15 @@
 					<ObjectInclusionList>
 						<ObjectRef Name="SFX_CHA_FS_dirt" ID="{1E9C8F73-10A3-442E-B4CE-71C4F7F8F5FC}" WorkUnitID="{112A5F6F-6B39-4953-882A-0118ADE90D19}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Character" ID="{79683887-E660-4909-B2B4-CB53B3FEB970}" WorkUnitID="{79683887-E660-4909-B2B4-CB53B3FEB970}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Character" ID="{112A5F6F-6B39-4953-882A-0118ADE90D19}" WorkUnitID="{112A5F6F-6B39-4953-882A-0118ADE90D19}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="SB_TEST" ID="{DEF103B9-6068-4BC6-966D-93E1A99A40A5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="TEST" ID="{7988823F-B242-4304-B490-C9290FA11154}" WorkUnitID="{B310B07B-2015-4F33-AF30-75A51BDD6627}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TEST" ID="{1253077C-63A4-44C1-A0BC-3CF11BF07ADE}" WorkUnitID="{88B3866F-E0D3-454A-AAE1-7837257844CA}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

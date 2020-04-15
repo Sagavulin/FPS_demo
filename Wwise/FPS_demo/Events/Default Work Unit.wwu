@@ -4,6 +4,32 @@
 		<WorkUnit Name="Default Work Unit" ID="{B310B07B-2015-4F33-AF30-75A51BDD6627}" PersistMode="Standalone">
 			<ChildrenList>
 				<WorkUnit Name="Character" ID="{112A5F6F-6B39-4953-882A-0118ADE90D19}" PersistMode="Reference"/>
+				<Folder Name="TEST" ID="{7988823F-B242-4304-B490-C9290FA11154}" ShortID="664731697">
+					<ChildrenList>
+						<Event Name="Play_SYNC_LOOP" ID="{DEBD5BD8-5B82-4243-BBDC-1413ACBEB011}">
+							<ChildrenList>
+								<Action Name="" ID="{5BE80D89-884C-423C-8897-45BD22FE320C}" ShortID="487174142">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SYNC_LOOP" ID="{E44B1D87-4589-40A2-AA6A-7EE9B3A809F3}" WorkUnitID="{88B3866F-E0D3-454A-AAE1-7837257844CA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_SYNC_BEEP" ID="{883756E8-63AE-4AAB-A781-3B7F9FF35D30}">
+							<ChildrenList>
+								<Action Name="" ID="{D12E3C4A-5D26-48B2-B206-9391135A42B2}" ShortID="871083697">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SYNC_BEEP" ID="{E09CE928-DFD6-4601-931E-9A9BCEEADD48}" WorkUnitID="{88B3866F-E0D3-454A-AAE1-7837257844CA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

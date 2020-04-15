@@ -2,7 +2,6 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Plugins
 Content
 .vscode
 .vs
@@ -14,3 +13,19 @@ Content
 *.suo
 *.xcodeproj
 *.xcworkspace
+Plugins/Wwise/ThirdParty/iOS
+Plugins/Wwise/ThirdParty/Mac
+Plugins/Wwise/ThirdParty/tvOS
+Plugins/Wwise/ThirdParty/Win32_vc140
+Plugins/Wwise/ThirdParty/Win32_vc150
+Plugins/Wwise/ThirdParty/x64_vc140
+Plugins/Wwise/ThirdParty/x64_vc150
+Plugins/Wwise/ThirdParty/XBoxOne_vc140
+Content/Collections
+Content/Developers
+Content/Geometry
+Content/ModularBuildingSet
+Content/ProceduralNaturePack
+Content/StarterContent
+Content/UE4_Mannequin_Mobile
+

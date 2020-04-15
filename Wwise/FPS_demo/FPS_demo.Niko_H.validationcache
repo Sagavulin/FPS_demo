@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Virtual Acoustics\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Triggers\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Switches\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\States\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\SoundBanks\Default Work Unit.wwu" DateLow="1586930159" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Queries\Factory Queries.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Queries\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Presets\Factory Spatial Audio.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Presets\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Modulators\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Mixing Sessions\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1586929076" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Game Parameters\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\FPS_demo.wproj" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\FPS_demo.Niko_H.wsettings" DateLow="1586931466" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Events\Default Work Unit.wwu" DateLow="1586930108" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Events\Character.wwu" DateLow="1586929076" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Effects\Factory Effects.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Effects\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Conversion Settings\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Control Surface Sessions\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Audio Devices\Default Work Unit.wwu" DateLow="1586841604" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Attenuations\Default Work Unit.wwu" DateLow="1586929076" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Attenuations\Character.wwu" DateLow="1586929076" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Actor-Mixer Hierarchy\Weapon.wwu" DateLow="1586929076" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1586929076" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1586930059" DateHigh="0"/>
+	<ValidationCacheItem File="E:\Personal\Unreal_Projects\FPS_demo\Wwise\FPS_demo\Actor-Mixer Hierarchy\Character.wwu" DateLow="1586929076" DateHigh="0"/>
+</ValidationCache>
